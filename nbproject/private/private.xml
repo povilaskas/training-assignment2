@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/localhost/assignmentapp/app/Http/Controllers/AddsController.php</file>
+            <file>file:/var/www/localhost/assignmentapp/config/app.php</file>
+            <file>file:/var/www/localhost/assignmentapp/app/User.php</file>
+            <file>file:/var/www/localhost/assignmentapp/app/Http/Controllers/UsersController.php</file>
+            <file>file:/var/www/localhost/assignmentapp/app/Http/Controllers/UserAddsController.php</file>
+            <file>file:/var/www/localhost/assignmentapp/resources/views/adds/index.blade.php</file>
+            <file>file:/var/www/localhost/assignmentapp/routes/web.php</file>
+            <file>file:/var/www/localhost/assignmentapp/app/Add.php</file>
+        </group>
+    </open-files>
+</project-private>
